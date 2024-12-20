@@ -54,6 +54,8 @@ This system streamlines inventory management while ensuring secure and controlle
 
 <img width="231" alt="task 2-1" src="https://github.com/user-attachments/assets/bfac69c0-f9bf-4b16-8007-7ec0638d59e3" />
 
+<img width="260" alt="task 2-2" src="https://github.com/user-attachments/assets/483bf4a5-8cea-4857-8b93-4ccf45b11830" />
+
 
 
 
