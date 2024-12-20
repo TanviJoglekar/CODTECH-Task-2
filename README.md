@@ -52,6 +52,9 @@ Informative low-stock warnings.
 Real-time inventory valuation.
 This system streamlines inventory management while ensuring secure and controlled access, making it an ideal solution for small-scale businesses.
 
+<img width="231" alt="task 2-1" src="https://github.com/user-attachments/assets/bfac69c0-f9bf-4b16-8007-7ec0638d59e3" />
+
+
 
 
 
